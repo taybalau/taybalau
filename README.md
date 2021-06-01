@@ -12,7 +12,7 @@ _Maybe you won't find a lot, but I hope you do_ 👁️👄👁️
 - 😎 2021 Goals: create a new database project.
 - ⚡ Fun fact: I used to think programming was scary, ha! Look where I am now 🧐
 
-_Don't worry! It will get better_ 😉
+_Don't worry! It will get better soon_ 😉
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taybalau&layout=compact&theme=radical)](https://github.com/taybalau/github-readme-stats)
 
