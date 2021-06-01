@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, folks 👋 I'm glad you're here! I'm Tay.
+_Maybe you won't find a lot, but I hope you do_ 👁️👄👁️
 
-<!--
-**taybalau/taybalau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src=https://media.giphy.com/media/XtfYIuXRuPzMnh4GwK/giphy.gif width="480">
+</p>
 
-Here are some ideas to get you started:
+- 👨‍💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/taynara-vitorino/)
+- 🌱 I’m currently learning python 🐍, SQL and how to work with datas.
+- 👯 I’m looking to collaborate on data projects. If there's anything I can help, let me know!
+- 🤔 Since I’m a begginer in the programming world, all help will be appreciated.
+- 😎 2021 Goals: create a new database project.
+- ⚡ Fun fact: I used to think programming was scary, ha! Look where I am now 🧐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Don't worry! It will get better_ 😉
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taybalau&layout=compact&theme=radical)](https://github.com/taybalau/github-readme-stats)
+
