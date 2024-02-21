@@ -9,7 +9,7 @@ _Maybe you won't find a lot, but I hope you do_ 👁️👄👁️
 - 🌱 I’m currently learning java, python 🐍, SQL and how to work with datas.
 - 👯 I’m looking to collaborate on data projects or back-end projects. If there's anything I can help, let me know!
 - 🤔 Since I’m a begginer in the programming world, all help will be appreciated.
-- 😎 2023 Goals: hmmmmmm 
+- 😎 2024 Goals: hmmmmmm 
 - ⚡ Fun fact: I used to think programming was scary, ha! Look where I am now 🧐
 
 _Don't worry! It will get better soon_ 😉
