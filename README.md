@@ -8,7 +8,7 @@ _Maybe you won't find a lot, but I hope you do_ 👁️👄👁️
 - 👨‍💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/taynara-vitorino/)
 - 🌱 I’m currently learning java, python 🐍, SQL and Web development.
 - 👯 I’m looking to collaborate on back-end projects. If there's anything I can help, let me know!
-- 🤔 I am no longer a beginner in the world of programming. However, any help will be appreciated.
+- 🤔 I am no longer a beginner in the programming world. However, any help will be appreciated.
 - 😎 2024 Goals: Start a challenging software development project.
 - ⚡ Fun fact: I used to think programming was scary, ha! Look where I am now 🧐
 
