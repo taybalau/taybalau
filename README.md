@@ -6,10 +6,10 @@ _Maybe you won't find a lot, but I hope you do_ 👁️👄👁️
 </p>
 
 - 👨‍💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/taynara-vitorino/)
-- 🌱 I’m currently learning java, python 🐍, SQL and how to work with datas.
-- 👯 I’m looking to collaborate on data projects or back-end projects. If there's anything I can help, let me know!
-- 🤔 Since I’m a begginer in the programming world, all help will be appreciated.
-- 😎 2024 Goals: hmmmmmm 
+- 🌱 I’m currently learning java, python 🐍, SQL and Web development.
+- 👯 I’m looking to collaborate on back-end projects. If there's anything I can help, let me know!
+- 🤔 I am no longer a beginner in the world of programming. However, any help will be appreciated.
+- 😎 2024 Goals: Start a challenging software development project.
 - ⚡ Fun fact: I used to think programming was scary, ha! Look where I am now 🧐
 
 _Don't worry! It will get better soon_ 😉
